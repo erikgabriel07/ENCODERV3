@@ -1,0 +1,7 @@
+cffi==1.17.1
+cryptography==44.0.0
+prompt-toolkit==3.0.36
+pycparser==2.22
+python-dotenv==1.0.1
+questionary==2.0.1
+wcwidth==0.2.13
