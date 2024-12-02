@@ -1,27 +1,3 @@
-Nome do arquivo: encoderV3.py
-Descrição: Esse programa simula um comportamento de ransomware
-           feito para fins educacionais. Por favor, tenha em mente que
-           esse código vai realmente cumprir o que ele promete, então
-           tome cuidado ao executar suas funções e não utilize-o para
-           prejudicar outras pessoas. Você será o único responsável
-           por quaisquer ações.
-Autor: Erik Gabriel
-Github: https://github.com/erikgabriel07
-Versão: 1.0
-Data: 03/12/2024
-Licença: MIT
-
-Instruções:
-
-1. Certifique-se de criar um diretório separado com cópias de arquivos
-para testar o programa, ou ainda em usar dentro de uma máquina virtual
-para evitar que seus arquivos importantes sejam criptografados.
-
-2. Não utilize esse programa para manipular dados sensíveis ou protegidos
-sem autorização.
-
-3. O uso dessa ferramenta é de total responsabilidade do usuário.
-
 Termos de Responsabilidade:
 
 O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE
