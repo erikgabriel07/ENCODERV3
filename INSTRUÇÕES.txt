@@ -1,0 +1,8 @@
+1. Certifique-se de criar um diretório separado com cópias de arquivos
+para testar o programa, ou ainda em usar dentro de uma máquina virtual
+para evitar que seus arquivos importantes sejam criptografados.
+
+2. Não utilize esse programa para manipular dados sensíveis ou protegidos
+sem autorização.
+
+3. O uso dessa ferramenta é de total responsabilidade do usuário.
