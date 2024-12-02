@@ -66,7 +66,7 @@ def load_pub_key(key):
     return serialization.load_pem_public_key(key_pem)
     
     
-def menu_optiosn():
+def menu_options():
     style = Style([
         ('qmark', 'fg:#fac731 bold'),        # Cor do símbolo de pergunta (ex: ?)
         ('question', 'fg:#ff5733 bold'),     # Cor do texto da pergunta
@@ -106,7 +106,7 @@ def main():
             print('O caminho fornecido não é válido!')
             exit(1)
         
-        method = menu_optiosn()
+        method = menu_options()
         
         if method['choice'] == 'Sair':
             exit(0)
